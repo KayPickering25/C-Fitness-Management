@@ -1,7 +1,6 @@
 /*
 Program Title: Lets WorkOut!
 Name: Kayla Pickering
-StuID: Kayla Pickering-w10105865
 Date: 04-23-2024
 
 Description: This program allows the user to choose if they would like to choose a workout, see their schedule, request information
